@@ -1,4 +1,4 @@
-ArduinoPhaseMidi
+Arduino-PhaseMidi
 ================
 
 Arduino Code for Phase Midi Project
